@@ -7,6 +7,8 @@ def extract_data():
     print("Data extracted:", data)
     return data
     #adding a dev comment to this repo in the dev-data instance
+    #adding the comment to check the validity of tthis instance
+    @
 
 if __name__ == "__main__":
     extract_data()
